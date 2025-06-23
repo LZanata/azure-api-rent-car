@@ -1,4 +1,4 @@
-# azure-api-aluguel-carros
+# azure-api-rent-car
 
 ## Descrição
 
