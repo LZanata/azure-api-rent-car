@@ -10,7 +10,7 @@ Este projeto é uma API Node.js para simular o aluguel de carros, integrando ser
 
 1. **Clone o repositório**
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LZanata/azure-api-rent-car.git
    cd seu-repositorio/app-locadora
    ```
 
