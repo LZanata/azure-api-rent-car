@@ -44,7 +44,7 @@ Este projeto é uma API Node.js para simular o aluguel de carros, integrando ser
 ## Estrutura do Projeto
 
 ```
-app-locadora/
+rent-a-car/
 │
 ├── index.js          # Código principal da API
 ├── package.json      # Dependências e scripts
