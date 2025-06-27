@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma API Node.js para simular o aluguel de carros, integrando serviços do Azure como Key Vault e Service Bus. O objetivo é demonstrar boas práticas de segurança, mensageria e organização de código em aplicações modernas na nuvem.
+Este projeto é uma API para simular o aluguel de carros, integrando serviços do Azure como Key Vault e Service Bus. O objetivo é demonstrar boas práticas de segurança, mensageria e organização de código em aplicações modernas na nuvem.
 
 ---
 
