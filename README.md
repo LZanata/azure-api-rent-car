@@ -76,11 +76,3 @@ rent-a-car/
 ## Insights
 
 Durante o desenvolvimento, aprendi a importância de separar as responsabilidades do código, proteger informações sensíveis e como a mensageria pode tornar sistemas mais escaláveis e desacoplados. O uso do Azure Key Vault e Service Bus mostrou como é possível integrar facilmente recursos de nuvem em aplicações Node.js.
-
----
-
-## Como entregar
-
-1. Crie um repositório no GitHub e suba o código.
-2. Complete este README com prints e, se desejar, mais detalhes do seu aprendizado.
-3. Compartilhe o link do repositório conforme instruções do curso.
